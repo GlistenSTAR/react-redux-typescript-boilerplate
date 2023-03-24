@@ -1,4 +1,4 @@
-# Frontend Boilerplate with React, Redux & TypeScript
+# Frontend Boilerplate with React, Redux & TypeScript For react 16.12
 
 A bare minimum react-hooks-redux-webpack-typescript boilerplate with TodoMVC example.
 
